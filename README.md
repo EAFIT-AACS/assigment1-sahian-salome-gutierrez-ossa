@@ -5,11 +5,19 @@
 - Class Number:  SI2002-2 (7309) 
 
 ## Development Environment
-- Operating System: Cloud (Replit Online IDE) 
+- Operating System:Cross-platform (compatible with Windows, Linux, macOS, and more via the JVM) or Cloud (Replit Online IDE) 
 - Programming Language: Java  
 - Development Platform: Replit 
 
 ## Execution Instructions
+## Local Environment
+1. Ensure Java is installed.
+2. Use any Java-compatible IDE (VSCode, IntelliJ IDEA) or a text editor.
+3. Create a file named Main.java and paste the provided code.
+4. Compile and run the program.
+
+
+## Online Environment
 1. Open Replit at https://replit.com/ and create a new Java project.  
 2. Copy and paste the provided Java code into a file named Main.java.  
 3. Run the program and provide the input in the expected format:  
